@@ -6,17 +6,17 @@ import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 
 class ActivityTriste : AppCompatActivity() {
-	override fun onCreate(savedInstanceState: Bundle?) {
-		super.onCreate(savedInstanceState)
-		setContentView(R.layout.activity_fullscreen_triste)
-	}
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_fullscreen_triste)
+    }
 
-	fun tryAgain(view: View) {
-		startActivity(Intent(applicationContext, MainActivity::class.java))
-		//Toast.makeText(applicationContext, "Bom, vamos conversar mais?", Toast.LENGTH_LONG).show()
-	}
+    fun tryAgain(view: View) {
+        startActivity(Intent(applicationContext, MainActivity::class.java))
+        //Toast.makeText(applicationContext, "Bom, vamos conversar mais?", Toast.LENGTH_LONG).show()
+    }
 
-	override fun onBackPressed() {
-		// não chame o super desse método
-	}
+    override fun onBackPressed() {
+        // não chame o super desse método
+    }
 }
