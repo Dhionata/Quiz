@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button">Button</string>
+    <string name="bem_vindo_a_ao_meu_quiz_nser_que_voc_me_conhece_nbem_o_suficiente">Bem-vindo(a) ao meu Quiz.<br />Será que você me
+        conhece<br />bem o
+        suficiente?</string>
+    <string name="primeira_quest_o_nqual_minha_cor_favorita">Primeira questão:<br />Qual minha cor favorita?</string>
+    <string name="yellow">Amarelo</string>
+    <string name="blue">Azul</string>
+    <string name="green">Verde</string>
+    <string name="black">Preto</string>
+    <string name="title_activity_fullscreen__triste">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="express_o_triste">Expressão Triste</string>
+    <string name="bal_o_de_express_o">Balão de expressão</string>
+    <string name="tentar_novamente">Tentar Novamente</string>
+    <string name="agora_o_meu_coracao">Agora o Meu Coração É um  Lixeiro Azul Vazio Escroto</string>
+    <string name="voce_pode_ir_na_janela">Você Pode Ir Na Janela</string>
+    <string name="pancada_dura">Pancada Dura</string>
+    <string name="quem_sabe_isso_quer_dizer_amor">Quem Sabe Isso Quer Dizer Amor</string>
+    <string name="qual_sua_musica_momento">Qual a sua música favorita do momento?</string>
+    <string name="qual_personagem_fict_cio_eu_mais_me_identifico">Qual personagem fictício eu mais me identifico?</string>
+    <string name="finch">Finch (Por Lugares Incríveis)</string>
+    <string name="sonhador_noites_brancas">Sonhador (Noites Brancas)</string>
+</resources>
